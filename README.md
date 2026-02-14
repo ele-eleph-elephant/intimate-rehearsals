@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="assets/images/ch03_tapas_recipe.PNG" 
-       style="max-width: 700px; width: 100%; height: auto;" 
+       style="max-width: 500px; width: 100%; height: auto;" 
        alt="Tapas食谱">
 </div>
 
