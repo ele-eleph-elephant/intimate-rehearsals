@@ -45,15 +45,15 @@
 
 ## 🎨 Visual Assets / 视觉资料
 
-### Chapter 02: 热带病
+### Chapter 02: 热带病 - 共享文档
 
 ![共享文档](assets/images/ch02_shared_doc.png)
 
 ---
 
-### Chapter 03: 向晚的高处
+### Chapter 03: 向晚的高处 - tapas食谱
 
-![Tapas食谱](assets/images/ch03_tapas_recipe.png)
+![Tapas食谱](assets/images/ch03_tapas_recipe.PNG)
 
 **Vietnamese × Northern Thai Fusion**
 
