@@ -93,15 +93,15 @@ intimate-rehearsals/
 │   ├── ch02_热带病.md
 │   └── ch03_向晚的高处.md
 │
-├── assets/                     # 资源文件
+├── assets/                     # 素材文件
 │   ├── images/                # 概念图/彩蛋
 │   │   ├── ch02_shared_doc.png
 │   │   └── ch03_tapas_recipe.png
 │   │   
-│   └── references/            # 参考资料（待编辑）
+│   └── references/            # 考据资料（待编辑）
 │       
 │
-└── notes/                      # 创作笔记（待编辑）
+└── dev_notes/                      # 草稿笔记（待编辑）
     
 ```
 
