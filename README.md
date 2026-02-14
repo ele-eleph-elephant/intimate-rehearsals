@@ -53,9 +53,11 @@
 
 ### Chapter 03: 向晚的高处 - tapas食谱
 
-![Tapas食谱](<img src="assets/images/ch03_tapas_recipe.PNG" width="600">)
-
-**Vietnamese × Northern Thai Fusion**
+<div align="center">
+  <img src="assets/images/ch03_tapas_recipe.PNG" 
+       style="max-width: 700px; width: 100%; height: auto;" 
+       alt="Tapas食谱">
+</div>
 
 ---
 
