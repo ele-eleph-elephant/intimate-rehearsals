@@ -123,9 +123,16 @@ intimate-rehearsals/
 
 欢迎通过以下方式提供反馈：
 
-- 💭 [GitHub Discussions](../../discussions) - 讨论剧情、角色、理论
-- 🐛 [Issues](../../issues) - 报告错字、提出建议
+- 💭 [Issues](../../issues/new/choose) - 讨论情节、角色分析、提出建议
 - 📮 小红书 @ele_eleph_elephant
+
+```
+**Issues 标签说明**：
+- 🐛 `bug` - 错字、链接失效等问题
+- 💡 `suggestion` - 情节建议等
+- 💬 `discussion` - 讨论心理描写、角色分析
+- ❓ `question` - 提问
+```
 
 ---
 
