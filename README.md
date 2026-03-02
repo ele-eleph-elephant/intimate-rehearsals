@@ -126,13 +126,11 @@ intimate-rehearsals/
 - 💭 [Issues](../../issues/new/choose) - 讨论情节、角色分析、提出建议
 - 📮 小红书 @ele_eleph_elephant
 
-```
 **Issues 标签说明**：
 - 🐛 `bug` - 错字、链接失效等问题
 - 💡 `suggestion` - 情节建议等
 - 💬 `discussion` - 讨论心理描写、角色分析
 - ❓ `question` - 提问
-```
 
 ---
 
@@ -177,4 +175,4 @@ Any resemblance to real persons is purely coincidental.
 
 ---
 
-*Last updated: 2026.02.10*
+*Last updated: 2026.03.02*
